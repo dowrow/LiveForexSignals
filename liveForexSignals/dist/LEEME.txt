@@ -1,0 +1,4 @@
+Modo de uso:
+        java -jar liveforexsignals.jar <intervalo_en_segundos> <nombre_fichero_csv>
+
+Es necesario que el .jar esté en la misma carpeta que /lib/

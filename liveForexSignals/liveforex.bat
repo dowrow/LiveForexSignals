@@ -1,0 +1,1 @@
+java -jar liveforexsignals.jar 60 fichero.csv
