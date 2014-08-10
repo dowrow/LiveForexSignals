@@ -1,4 +1,4 @@
 LiveForexSignals
 ================
 
-Web scrapper for Live-forex-signals.com
+Web scraper for Live-forex-signals.com
